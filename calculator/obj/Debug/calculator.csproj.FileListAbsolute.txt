@@ -1,0 +1,7 @@
+C:\Users\Алло\Documents\visual studio projects\Laboratorna 3\calculator\bin\Debug\calculator.exe.config
+C:\Users\Алло\Documents\visual studio projects\Laboratorna 3\calculator\bin\Debug\calculator.exe
+C:\Users\Алло\Documents\visual studio projects\Laboratorna 3\calculator\bin\Debug\calculator.pdb
+C:\Users\Алло\Documents\visual studio projects\Laboratorna 3\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\Алло\Documents\visual studio projects\Laboratorna 3\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Алло\Documents\visual studio projects\Laboratorna 3\calculator\obj\Debug\calculator.exe
+C:\Users\Алло\Documents\visual studio projects\Laboratorna 3\calculator\obj\Debug\calculator.pdb
